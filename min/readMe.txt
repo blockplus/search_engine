@@ -1,0 +1,1 @@
+img.py -> BANK_PATH = '/var/www/html/page/assets/bank'
